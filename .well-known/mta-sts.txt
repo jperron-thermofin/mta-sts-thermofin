@@ -1,0 +1,9 @@
+version: STSv1
+mode: testing
+mx: thermofin-net.p10.spamhero.com
+mx: thermofin-net.p20.spamhero.net
+mx: thermofin-net.p30.spamhero.net
+mx: thermofin-net.p40.spamhero.net
+mx: thermofin-net.mail.protection.outlook.com
+mx: *.mail.protection.outlook.com
+max_age: 604800
